@@ -33,7 +33,7 @@
 #include "utilities/globalDefinitions.hpp"
 
 
-// = GENERAL =
+// == GENERAL ==
 // Access is an API for performing accesses with declarative semantics. Each access can have a number of "decorators".
 // A decorator is an attribute or property that affects the way a memory access is performed in some way.
 // There are different groups of decorators. Some have to do with memory ordering, others to do with,
